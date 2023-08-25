@@ -3,5 +3,20 @@
         <file>main.qml</file>
         <file>../../Downloads/blacktesla.png</file>
         <file>../../Downloads/carrr.png</file>
+        <file>../../Downloads/unlock.png</file>
+        <file>../../Downloads/lock.png</file>
+        <file>../../Downloads/googlemap.png</file>
+        <file>../../Downloads/planet-earth.png</file>
+        <file>../../Downloads/music.png</file>
+        <file>../../Downloads/camera.png</file>
+        <file>../../Downloads/telephone.png</file>
+        <file>../../Downloads/game.png</file>
+        <file>../../Downloads/yahoo.png</file>
+        <file>../../Downloads/bluetooth.png</file>
+        <file>../../Downloads/radio.png</file>
+        <file>../../Downloads/add.png</file>
+        <file>../../Downloads/map1.png</file>
+        <file>../../Downloads/brand.png</file>
+        <file>../../Downloads/Tesla-Emblem.png</file>
     </qresource>
 </RCC>
