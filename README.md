@@ -1,2 +1,2 @@
 # Tesla-map-dashboard
-![map](https://github.com/laaouinihaitam/Tesla-map-dashboard/assets/107327154/80a77e3d-57b8-45e6-821f-7ea282e9f8a4)
+![teslamap](https://github.com/laaouinihaitam/Tesla-map-dashboard/assets/107327154/00c75320-f4d5-4f2f-b610-3b88842da824)
